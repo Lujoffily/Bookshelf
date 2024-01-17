@@ -1,0 +1,32 @@
+<nav>
+    <button id="logout">Logout?</button>
+</nav>
+<h1>Profile Page</h1>
+<div href="" id="search">
+    <label for="searchInput">Find Book</label>
+    <input id="searchInput" type="text" placeholder="Search">
+</div>
+<button id="searchBtn">search</button>
+
+<div href="" id="params">
+    <label for="searchInput">Find Video</label>
+    <input id="paramsInput" type="text" placeholder="Search">
+</div>
+<button id="paramsBtn">search</button>
+{{#each mediaEntries as |media|}}
+<div class="cards" id="{{media.type.medtype}}">
+    <h4>{{media.name}}</h4>
+    <img src="{{media.picture}}" alt="{{media.name}}">
+    <p>{{media.descript}}</p>
+</div>
+{{/each}}
+<div class="card">
+  <img>{{!-- book image --}}
+  <div class="box">
+    <h4><b>{{!-- book name --}}</b></h4>
+    <p>{{!-- book discription --}}</p>
+  </div>
+</div>
+<script src="./js/profile.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+<script src="./js/axios.js"></script>

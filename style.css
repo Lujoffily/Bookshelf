@@ -1,0 +1,36 @@
+body {
+   
+}
+
+#header-1 {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+
+#login-area {
+    border: solid 2px;
+    border-radius: 15px ;
+    border-color: black;
+    padding: 20px;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    background-color: #FBE8D4;
+    box-shadow: 4px 4px;
+}
+
+#login-button {
+    width: 51%;
+    height: 25px;
+    margin: auto;
+    background-color: #5286ef;  
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.input {
+    height: 25px;
+    width: 50%;
+    margin: auto;
+}

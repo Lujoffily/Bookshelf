@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Luna",
+        "email": "BucarLJ@email.com",
+        "password": "asd312"
+    },
+    {
+        "name": "John",
+        "email": "gooseman980@email.com",
+        "password": "password124"
+    },
+    {
+        "name": "Victor",
+        "email": "deathpotato@email.com",
+        "password": "password156"
+    },
+    {
+        "name": "Elijah",
+        "email": "EliSat@email.com",
+        "password": "password753"
+    },
+    {
+        "name": "Austin",
+        "email": "AusFitz@email.com",
+        "password": "password426"
+    }
+]

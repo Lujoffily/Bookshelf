@@ -1,0 +1,79 @@
+[
+    {
+        "type_id": 1,
+        "user_id": 1,
+        "name": "The Way of Kings",
+        "picture": "",
+        "descript": ""
+    },
+    {
+        "type_id": 1,
+        "user_id": 1,
+        "name": "The Rage of Dragons",
+        "picture": "",
+        "descript": ""
+    },
+    {
+        "type_id": 1,
+        "user_id": 1,
+        "name": "It",
+        "picture": "",
+        "descript": ""
+    },
+    {
+        "type_id": 2,
+        "user_id": 4,
+        "name": "Breaking Bad",
+        "picture": "",
+        "descript": ""
+    },
+    {
+        "type_id": 2,
+        "user_id": 4,
+        "name": "Game of Thrones",
+        "picture": "",
+        "descript": ""
+    },
+    {
+        "type_id": 2,
+        "user_id": 4,
+        "name": "Sons of Anarchy",
+        "picture": "",
+        "descript": ""
+    },
+    {
+        "type_id": 2,
+        "user_id": 4,
+        "name": "Mayans M.C.",
+        "picture": "",
+        "descript": ""
+    },
+    {
+        "type_id": 2,
+        "user_id": 2,
+        "name": "Naruto",
+        "picture": "",
+        "descript": ""
+    },
+    {
+        "type_id": 2,
+        "user_id": 2,
+        "name": "One Piece",
+        "picture": "",
+        "descript": ""
+    },
+    {
+        "type_id": 2,
+        "user_id": 2,
+        "name": "Tokyo Revengers",
+        "picture": "",
+        "descript": ""
+    },
+    {
+        "type_id": 2,
+        "user_id": 2,
+        "name": "Futurama",
+        "picture": "",
+        "descript": ""
+    }
+]

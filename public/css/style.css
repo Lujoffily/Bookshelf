@@ -1,0 +1,114 @@
+
+
+body {
+    background-image: url("https://isp.page/news/wp-content/uploads/2023/09/The-Best-Backgrounds-for-Video-Calls-Bookshelves-and-Plants-Increase-Trust-and-Competence_65154cc7b0ce5.jpg");
+    background-size: cover;
+    z-index: -1;
+}
+
+#header-1 {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+
+#loginform {
+    border: solid 2px;
+    border-radius: 15px;
+    border-color: black;
+    padding: 20px;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    background-color: #FBE8D4;
+    box-shadow: 4px 4px;
+}
+
+#login-button {
+    width: 51%;
+    height: 25px;
+    margin: auto;
+    background-color: #5286ef;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+#LoginTxt{
+    text-shadow: 2px 2px rgb(48, 167, 56);
+    font-size:2.8em;
+}
+
+#BookShelf{
+    text-shadow: 4px 5px rgb(163, 48, 167);
+    font-size:3em;
+}
+input {
+    height: 25px;
+    width: 50%;
+    margin: auto;
+}
+
+#container {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    border: solid 2px black;
+    border-radius: 5px;
+    padding: 20px;
+    align-items: center;
+}
+
+.loginform {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    border: dotted 2px black;
+    border-radius: 5px;
+    padding: 15px;
+}
+
+#box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.btn-color {
+    background-color: #0e1c36;
+    color: #fff;
+
+}
+
+.profile-image-pic {
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+}
+
+
+
+.cardbody-color {
+    background-color: #ebf2fa;
+}
+
+a {
+    text-decoration: none;
+}
+
+.card {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 15em;
+  }
+  
+  /* On mouse-over, add a deeper shadow */
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  /* Add some padding inside the card container */
+  .box {
+    padding: 2px 16px;
+  }
